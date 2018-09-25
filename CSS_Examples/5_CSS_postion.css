@@ -1,0 +1,48 @@
+.box {
+  width: 100px;
+  height: 100px;
+  text-align: center;
+}
+
+/* static */
+.static1{
+
+}
+
+.static2{
+
+}
+
+/* relative */
+.relative{
+  
+}
+
+/* absolute */
+.container{
+  position: relative;
+  width: 200px;
+  height: 200px;
+  background-color: #ccc;
+}
+
+.absolute{
+  
+}
+
+/* fixed */
+.long-container{
+  position: relative;
+  width: 200px;
+  height: 1500px;
+  background-color: #ccc;
+}
+
+.fixed{
+  
+}
+
+/* sticky */
+.sticky{
+
+}
